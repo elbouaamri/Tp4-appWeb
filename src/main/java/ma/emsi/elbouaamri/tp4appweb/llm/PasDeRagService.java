@@ -1,4 +1,4 @@
-package ma.emsi.elbouaamri.tp4appweb.jsf;
+package ma.emsi.elbouaamri.tp4appweb.llm;
 
 import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.model.googleai.GoogleAiGeminiChatModel;

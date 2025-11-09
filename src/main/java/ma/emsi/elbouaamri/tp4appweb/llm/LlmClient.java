@@ -11,8 +11,6 @@ import dev.langchain4j.rag.RetrievalAugmentor;
 import jakarta.annotation.PostConstruct;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.inject.Inject;
-import ma.emsi.elbouaamri.tp4appweb.jsf.PasDeRagService;
-import ma.emsi.elbouaamri.tp4appweb.jsf.RagRoutageService;
 
 @ApplicationScoped
 public class LlmClient {

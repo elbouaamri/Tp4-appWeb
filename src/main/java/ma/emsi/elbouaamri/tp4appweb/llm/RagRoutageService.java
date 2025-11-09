@@ -1,4 +1,4 @@
-package ma.emsi.elbouaamri.tp4appweb.jsf;
+package ma.emsi.elbouaamri.tp4appweb.llm;
 
 import dev.langchain4j.data.document.Document;
 import dev.langchain4j.data.document.loader.FileSystemDocumentLoader;
